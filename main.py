@@ -55,3 +55,5 @@ if __name__ == "__main__":
 
     # Generate new boxplots 
     boxplot.plot_boxplots(df_modified, cols_to_plot, 'Boxpolot após remoção de outliers:', 'boxplot_wot_outliers')
+
+    # Get statistical information 
